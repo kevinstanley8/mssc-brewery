@@ -6,13 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="d057f756-1a1f-4239-82c0-6cfd346d6272" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/services/BeerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/services/BeerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/services/BeerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/services/BeerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/services/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/services/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/services/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/services/CustomerServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/controller/BeerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/controller/BeerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/services/BeerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/services/BeerService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/services/BeerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/services/BeerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/services/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/services/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/services/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/services/CustomerServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/controller/BeerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/controller/BeerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/controller/CustomerController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/mssc-brewery-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mssc-brewery-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/mssc-brewery-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/mssc-brewery-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-guru.springframework.msscbrewery.MsscBreweryApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-guru.springframework.msscbrewery.MsscBreweryApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/guru.springframework.msscbrewery.MsscBreweryApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/guru.springframework.msscbrewery.MsscBreweryApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +132,7 @@
       <workItem from="1736953216892" duration="3518000" />
       <workItem from="1736956742347" duration="111000" />
       <workItem from="1736956859580" duration="5839000" />
-      <workItem from="1737481897707" duration="3250000" />
+      <workItem from="1737481897707" duration="5787000" />
     </task>
     <servers />
   </component>
