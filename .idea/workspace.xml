@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d057f756-1a1f-4239-82c0-6cfd346d6272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/controller/BeerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/controller/BeerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/model/BeerDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/model/BeerDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/controller/BeerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/controller/BeerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/model/BeerDto$BeerDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/model/BeerDto$BeerDtoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/model/BeerDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/model/BeerDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/controller/v2/BeerControllerV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/controller/v2/BeerControllerV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/model/CustomerDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/msscbrewery/web/model/CustomerDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/model/CustomerDto$CustomerDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/model/CustomerDto$CustomerDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/model/CustomerDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/msscbrewery/web/model/CustomerDto.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/mssc-brewery-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mssc-brewery-0.0.1-SNAPSHOT.jar" afterDir="false" />
@@ -145,7 +143,7 @@
       <workItem from="1737999566929" duration="86000" />
       <workItem from="1737999741486" duration="2428000" />
       <workItem from="1738068857018" duration="3845000" />
-      <workItem from="1738155688198" duration="1559000" />
+      <workItem from="1738155688198" duration="3735000" />
     </task>
     <servers />
   </component>
